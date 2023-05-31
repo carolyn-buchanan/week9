@@ -1,0 +1,31 @@
+body{
+background-color: burlywood;
+margin-left: 30px;
+
+}
+
+h1{
+  color: rgba(255, 0, 0, 0.528);
+  font-size: 40px;
+}
+p{
+
+  color: rgba(128, 0, 128, 0.503);
+  font-size: 20px;
+
+}
+
+p a {
+  color: rgba(255, 192, 203, 0.761);
+  text-decoration: none;
+
+}
+
+#boba {
+color: rgba(0, 128, 0, 0.502);
+
+}
+
+.bright{
+  color: rgba(255, 255, 0, 0.685); 
+}
